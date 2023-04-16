@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "node src/index.js"
   },
   "engines": {
     "npm": ">=8.0.0 <9.6.3",
